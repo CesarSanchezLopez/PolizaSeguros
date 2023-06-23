@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPolizaSeguros", "ApiPolizaSeguros.csproj", "{A7FFA941-DEFF-4566-8BEB-4D4426EB2DBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\Test\Test.csproj", "{2D1FA524-10FC-4347-A2DF-3ACC78BAAA69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7FFA941-DEFF-4566-8BEB-4D4426EB2DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FFA941-DEFF-4566-8BEB-4D4426EB2DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FFA941-DEFF-4566-8BEB-4D4426EB2DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FFA941-DEFF-4566-8BEB-4D4426EB2DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D1FA524-10FC-4347-A2DF-3ACC78BAAA69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1FA524-10FC-4347-A2DF-3ACC78BAAA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1FA524-10FC-4347-A2DF-3ACC78BAAA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1FA524-10FC-4347-A2DF-3ACC78BAAA69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D3CF1ED-8F44-49E9-BF52-C638AC0D6165}
+	EndGlobalSection
+EndGlobal
